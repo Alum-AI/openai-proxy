@@ -4,7 +4,7 @@
 
 ### Deno
 
-Click[here][1] tod deployment on the Deno Deploy。
+Click [here][1] tod deployment on the Deno Deploy。
 
 then go to Settings, and setupt domains.
 
